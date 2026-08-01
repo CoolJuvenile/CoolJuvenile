@@ -97,8 +97,8 @@ I build things that bridge hardware and software — from ESP32 WiFi tools to An
 
 ### 📬 Contact / 联系我
 
+- 📧 **Email**: [3384341233@qq.com](mailto:3384341233@qq.com) / [Szhdggzh319@gmail.com](mailto:Szhdggzh319@gmail.com)
 - 💬 **GitHub Issues**: Feel free to open an issue on any repo / 欢迎在任何仓库提 Issue
-- 📧 **Email**: *coming soon...*
 
 ---
 
