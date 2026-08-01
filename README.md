@@ -35,6 +35,13 @@ I build things that bridge hardware and software — from ESP32 WiFi tools to An
 
 ### 🛠️ Tech Stack / 技术栈
 
+<div align="center">
+
+[![](https://skillicons.dev/icons?i=c,cpp,python,kotlin,arduino)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,bash,git,vscode,docker)](https://skillicons.dev)
+
+</div>
+
 <table>
 <tr>
 <td align="right" width="120"><b>Embedded 嵌入式</b></td>
@@ -47,15 +54,6 @@ I build things that bridge hardware and software — from ESP32 WiFi tools to An
 </td>
 </tr>
 <tr>
-<td align="right"><b>Languages 语言</b></td>
-<td>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-</td>
-</tr>
-<tr>
 <td align="right"><b>Low-Level 底层</b></td>
 <td>
   <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat&logo=linux&logoColor=black">
@@ -63,15 +61,25 @@ I build things that bridge hardware and software — from ESP32 WiFi tools to An
   <img src="https://img.shields.io/badge/Drivers-000000?style=flat&logo=tasmota&logoColor=white">
 </td>
 </tr>
-<tr>
-<td align="right"><b>Tools 工具</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=windows-terminal&logoColor=white">
-</td>
-</tr>
 </table>
+
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CoolJuvenile&theme=algolia&column=4&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CoolJuvenile&theme=blue-navy&locale=zh_Hans&card_width=800)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CoolJuvenile&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 📂 涉及领域
+
+- ESP32 / 嵌入式开发
+- IoT 安全测试工具
+- Android 内核编译与修补
+- OLED 动画 / 显示驱动
+- 轻量级实用工具开发
 
 ---
 
