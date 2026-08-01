@@ -1,9 +1,21 @@
 ```
-   _____       _      ___   ____  __ ________
-  / ___/____  (_)___ |__ \ / __ \/ //_  <  / /
-  \__ \/_  / / / __ \__/ // / / / ,<  / // / /
- ___/ / / /_/ / /_/ / __// /_/ / /| |/ // /_/
-/____/ /___/_/\____/____/\____/_/ |_/___(_)
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██████╗ ██████╗  ██████╗ ██╗         ██╗██╗   ██╗       ║
+║   ██╔════╝██╔═══██╗██╔═══██╗██║         ██║██║   ██║       ║
+║   ██║     ██║   ██║██║   ██║██║         ██║██║   ██║       ║
+║   ██║     ██║   ██║██║   ██║██║         ██║██║   ██║       ║
+║   ╚██████╗╚██████╔╝╚██████╔╝███████╗    ██║╚██████╔╝       ║
+║    ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝    ╚═╝ ╚═════╝        ║
+║                                                              ║
+║   ██╗██╗   ██╗██╗   ██╗███████╗███╗   ██╗██╗██╗     ███████╗║
+║   ██║██║   ██║██║   ██║██╔════╝████╗  ██║██║██║     ██╔════╝║
+║   ██║██║   ██║██║   ██║█████╗  ██╔██╗ ██║██║██║     █████╗  ║
+║   ██║╚██╗ ██╔╝██║   ██║██╔══╝  ██║╚██╗██║██║██║     ██╔══╝  ║
+║   ██║ ╚████╔╝ ╚██████╔╝███████╗██║ ╚████║██║███████╗███████╗║
+║   ╚═╝  ╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <h3 align="center">⚡ Embedded Dev | 📱 IoT Builder | 🔧 Kernel Hacker</h3>
@@ -67,18 +79,18 @@ I build things that bridge hardware and software — from ESP32 WiFi tools to An
 
 | Project 项目 | Description 描述 | Tech |
 |---|---|---|
-| [esp32-s3-wifi-killer](https://github.com/szh319/esp32-s3-wifi-killer) | ESP32-S3 WiFi security testing tool / WiFi 安全测试工具 | ESP32-S3 · C++ |
-| [Salary-Cat-ESP32S3](https://github.com/szh319/Salary-Cat-ESP32S3) | 月薪猫 OLED 动画 — ESP32-S3 移植版 / Salary Cat animation on SSD1306 | ESP32-S3 · Arduino |
-| [xiaomi-kernel-evergo-mt6833p](https://github.com/szh319/xiaomi-kernel-evergo-mt6833p) | Patched kernel for Redmi Note 11/11T 5G (evergo) / 修补内核 | Linux Kernel · C |
-| [-PomoFocus](https://github.com/szh319/-PomoFocus) | Pomodoro Focus Timer / 番茄钟专注计时器 | Kotlin · Android |
+| [esp32-s3-wifi-killer](https://github.com/CoolJuvenile/esp32-s3-wifi-killer) | ESP32-S3 WiFi security testing tool / WiFi 安全测试工具 | ESP32-S3 · C++ |
+| [Salary-Cat-ESP32S3](https://github.com/CoolJuvenile/Salary-Cat-ESP32S3) | 月薪猫 OLED 动画 — ESP32-S3 移植版 / Salary Cat animation on SSD1306 | ESP32-S3 · Arduino |
+| [xiaomi-kernel-evergo-mt6833p](https://github.com/CoolJuvenile/xiaomi-kernel-evergo-mt6833p) | Patched kernel for Redmi Note 11/11T 5G (evergo) / 修补内核 | Linux Kernel · C |
+| [-PomoFocus](https://github.com/CoolJuvenile/-PomoFocus) | Pomodoro Focus Timer / 番茄钟专注计时器 | Kotlin · Android |
 
 ---
 
 ### 📊 GitHub Stats / 统计
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=szh319&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szh319&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CoolJuvenile&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolJuvenile&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
